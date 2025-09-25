@@ -3,7 +3,7 @@
 I’m a **Full-Stack Developer** passionate about building scalable, user-focused apps with **Next.js, Supabase, and Node.js**.  
 I enjoy solving problems through code, contributing to open-source, and creating products that make everyday life easier.  
 
-🚀 Currently open to **remote junior developer roles** at startups.  
+🚀 Currently open to **Developer roles**.  
 
 ---
 
