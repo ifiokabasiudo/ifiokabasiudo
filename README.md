@@ -24,6 +24,13 @@ I enjoy solving problems through code, contributing to open-source, and creating
 
 ## 🚀 Featured Projects
 
+### 💰 [NFC Payment App](https://github.com/ifiokabasiudo/nfc-payment-app)  
+Hybrid NFC Payment System (Works both offline and online) 
+Built with **Next.js, Node.js, MongoDB, and Tron Blockchain**.  
+🔗 [Demo Video](https://ifiok.vercel.app/1127_2.mp4)  
+
+---
+
 ### 🎓 [LectureMate](https://github.com/ifiokabasiudo/lecturemate-updated.git)  
 AI-powered lecture assistant for students.  
 Built with **Next.js, Node.js, Supabase, and OpenAI API**.  
